@@ -34,7 +34,7 @@
         "listId": 2,
         "title": "Vanilla Cake",
         "quantity": 1,
-        "price": 10.99
+        "price": 10.99,
         "brand": "Signature Select",
         "aisle": 2,
         "weight_oz": 12
@@ -44,7 +44,7 @@
         "listId": 2,
         "title": "Corn Bread",
         "quantity": 1,
-        "price": 4.99
+        "price": 4.99,
         "brand":"Signature Select",
         "aisle": 2,
         "weight_oz": 9
