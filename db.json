@@ -1,18 +1,37 @@
-{
   "items": [
     {
         "id": 1,
-        "listId": 2,
-        "title": "Brownie",
+        "listId": 1,
+        "title": "Washing pods",
         "quantity": 1,
         "price": 6.99,
-        "brand": "Good Brownie",
+        "brand": "Tide",
+        "aisle": 4,
+        "weight_oz": 36
+    },
+    {
+        "id": 2,
+        "listId": 1,
+        "title": "Rice",
+        "quantity": 1,
+        "price": 0.99,
+        "brand": "Goya",
+        "aisle": 3,
+        "weight_oz": 16
+    },
+    {
+        "id": 3,
+        "listId": 1,
+        "title": "Brownie",
+        "quantity": 1,
+        "price": 10.99,
+        "brand": "Signature Select",
         "aisle": 2,
         "weight_oz": 8
     },
     {
-        "id": 2,
-        "listId": 2,
+        "id": 4,
+        "listId": 1,
         "title": "Vanilla Cake",
         "quantity": 1,
         "price": 10.99,
@@ -22,7 +41,7 @@
     },
     {
         "id": 5,
-        "listId": 2,
+        "listId": 1,
         "title": "Corn Bread",
         "quantity": 1,
         "price": 4.99,
