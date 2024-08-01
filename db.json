@@ -53,7 +53,10 @@
   ],
   "lists": [
     { "id": 1, "title": "Daily groceries" },
-    { "id": 2, "title": "Birthday" }
+    { "id": 2, "title": "Birthday" },
+    {"id":3, "title": "This is it"},
+    {"id":4, "title": "Nightmare"},
+    {"id":5, "title": "Small Dreams"}
   ],
   "tasks": [
     {
